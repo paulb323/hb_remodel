@@ -1,5 +1,10 @@
 body {
-	background-image: url(../img/tiny_grid.png) !important
+	background-color: #fbfbff 
+}
+
+.header, group {
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
 .shadow {
@@ -8,87 +13,14 @@ body {
 	-webkit-box-shadow: 0px 2px 10px black;
 }
 
+.slider {
+	background-image:url(../img/office_blurred.png);
+	height: auto;
+}
+
 .footer {
 	text-align: center;
+	height: auto;
+	background-color: blue;
 }
 
-#hmbtn1 {
-  background: url(../img/Byte.png) no-repeat center center;
-  display:block;
-  min-height: 200px;
-  text-indent:-9999px;
-}
-
-#hmbtn1:hover {
-	background: url(../img/hover_Byte.png) no-repeat center center;
-	display: block;
-	min-height: 200px;
-	text-indent:-9999px;
-}
-
-#hmbtn2 {
-  background: url(../img/mail.png) no-repeat center center;
-  display:block;
-  min-height: 200px;
-  text-indent:-9999px;
-}
-
-#hmbtn2:hover {
-  background: url(../img/hover_mail.png) no-repeat center center;
-  display:block;
-  min-height: 200px;
-  text-indent:-9999px;
-}
-
-#hmbtn3 {
-  background: url(../img/Twitter.png) no-repeat center center;
-  display:block;
-  min-height: 200px;
-  text-indent:-9999px;
-}
-
-#hmbtn3:hover {
-  background: url(../img/hover_Twitter.png) no-repeat center center;
-  display:block;
-  min-height: 200px;
-  text-indent:-9999px;
-}
-
-#hmbtn4 {
-  background: url(../img/LinkedIn.png)no-repeat center center;
-  display:block;
-  min-height: 200px;
-  text-indent:-9999px;
-}
-
-#hmbtn4:hover {
-  background: url(../img/hover_LinkedIn.png) no-repeat center center;
-  display:block;
-  min-height: 200px;
-  text-indent:-9999px;
-}
-
-#hmbtn5 {
-  background: url(../img/Pinterest.png) no-repeat center center;
-  display:block;
-  min-height: 200px;
-  text-indent:-9999px;
-}
-
-#hmbtn5:hover {
-  background: url(../img/hover_Pinterest.png) no-repeat center center;
-  display:block;
-  min-height: 200px;
-  text-indent:-9999px;
-}
-
-#hmbtn6 {
-  background: url(../img/Blank.png) no-repeat center center;
-  display:block;
-  min-height: 200px;
-  text-indent:-9999px;
-}
-
-#fourohfour {
-	text-align: center;
-}
